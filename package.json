@@ -11,12 +11,14 @@
   },
   "dependencies": {
     "react": "16.13.1",
-    "react-native": "0.63.3"
+    "react-native": "0.63.3",
+    "react-native-responsive-dimensions": "^3.1.1"
   },
   "devDependencies": {
     "@babel/core": "7.12.3",
     "@babel/runtime": "7.12.1",
     "@react-native-community/eslint-config": "1.1.0",
+    "@react-navigation/native": "^5.8.0",
     "babel-jest": "25.5.1",
     "eslint": "6.8.0",
     "jest": "25.5.4",
